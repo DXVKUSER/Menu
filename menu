@@ -19,7 +19,7 @@
   
  
   <channel>
-<name>[B][COLOR white]SERVIDOR SÉRIES[/COLOR][/B]</name>
+<name>[B][COLOR white]SÉRIES[/COLOR][/B]</name>
 <thumbnail>https://www.pngitem.com/pimgs/b/301-3014574_cine-png.png</thumbnail>
 <fanart>https://d2d7ho1ae66ldi.cloudfront.net/ArquivoNoticias/97a52c27-4fd9-11ed-aa6e-9587410378a2/1899+p%c3%b4ster.png</fanart>
 <info>[COLOR blue]SERVIDOR SÉRIES[/COLOR]</info>
@@ -27,7 +27,7 @@
 </channel>
   
 <channel>
-<name>[B][COLOR white]SERVIDOR FILMES[/COLOR][/B]</name>
+<name>[B][COLOR white]FILMES[/COLOR][/B]</name>
 <thumbnail>https://www.pngitem.com/pimgs/b/301-3014574_cine-png.png</thumbnail>
 <fanart>https://filmesnseries.files.wordpress.com/2018/12/02.jpg?w=1080</fanart>
 <info>[COLOR blue]SERVIDOR FILMES[/COLOR]</info>
@@ -35,7 +35,7 @@
 </channel>
   
 <channel>
-<name>[B][COLOR orange]SERVIDOR TESTE[/COLOR][/B]</name>
+<name>[B][COLOR orange]TESTES[/COLOR][/B]</name>
 <thumbnail>https://vetorempilhadeiras.com.br/loja/wp-content/uploads/2021/02/d2d47e23b5.jpg</thumbnail>
 <fanart>https://filmesnseries.files.wordpress.com/2018/12/02.jpg?w=1080</fanart>
 <info>[COLOR blue]SERVIDOR TESTE[/COLOR]</info>
