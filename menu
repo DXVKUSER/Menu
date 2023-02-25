@@ -20,16 +20,16 @@
  
   <channel>
 <name>[B][COLOR white]SÉRIES[/COLOR][/B]</name>
-<thumbnail>https://www.pngitem.com/pimgs/b/301-3014574_cine-png.png</thumbnail>
-<fanart>https://d2d7ho1ae66ldi.cloudfront.net/ArquivoNoticias/97a52c27-4fd9-11ed-aa6e-9587410378a2/1899+p%c3%b4ster.png</fanart>
+<thumbnail>https://i.imgur.com/9qEj6bJ.png</thumbnail>
+<fanart>https://i.imgur.com/g40ffeC.jpg</fanart>
 <info>[COLOR blue]SERVIDOR SÉRIES[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/DXVKUSER/SERVIDOR-MV/main/SERVIDOR-SE</externallink>
 </channel>
   
 <channel>
 <name>[B][COLOR white]FILMES[/COLOR][/B]</name>
-<thumbnail>https://www.pngitem.com/pimgs/b/301-3014574_cine-png.png</thumbnail>
-<fanart>https://filmesnseries.files.wordpress.com/2018/12/02.jpg?w=1080</fanart>
+<thumbnail>https://i.imgur.com/9qEj6bJ.png</thumbnail>
+<fanart>https://i.imgur.com/g40ffeC.jpg</fanart>
 <info>[COLOR blue]SERVIDOR FILMES[/COLOR]</info>
 <externallink>https://github.com/DXVKUSER/SERVIDOR-MV/blob/main/MV%20SERVIDOR?raw=true</externallink>
 </channel>
