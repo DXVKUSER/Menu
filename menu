@@ -33,6 +33,14 @@
 <info>[COLOR blue]SERVIDOR FILMES[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/DXVKUSER/SERVIDORES/main/TODOSMV</externallink>
 </channel>
+
+<channel>
+<name>[B][COLOR white]RÁDIO[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/HjCEK0J.jpg</thumbnail>
+<fanart>https://i.imgur.com/0rTRXq7.jpg</fanart>
+<info>[COLOR blue]RADIO[/COLOR]</info>
+<externallink>http://uk12freenew.listen2myradio.com:35348/;?type=http&nocache=2</externallink>
+</channel>
   
 
 
